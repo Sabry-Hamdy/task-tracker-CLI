@@ -2,6 +2,20 @@
 
 A simple command-line tool for tracking tasks, built with Node.js.
 
+## Installation
+1. Clone the repository:
+   ```
+   git clone https://github.com/Sabry-Hamdy/task-tracker-CLI
+   ```
+2. Navigate to the project directory:
+   ```
+   cd cli-task-tracker
+   ```
+3. Install the dependencies:
+   ```
+   npm install
+   ```
+
 ## Features
 
 - Add, update, delete tasks
